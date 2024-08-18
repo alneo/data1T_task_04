@@ -1,6 +1,6 @@
 # Итоговая аттестация Задание 4.
-![GitHub top language](https://img.shields.io/github/languages/top/alneo/data1T_task_02)
-![GitHub issues](https://img.shields.io/github/issues/alneo/data1T_task_02)
+![GitHub top language](https://img.shields.io/github/languages/top/alneo/data1T_task_04)
+![GitHub issues](https://img.shields.io/github/issues/alneo/data1T_task_04)
 
 ## Создание Docker-контейнера с Pandas
 
